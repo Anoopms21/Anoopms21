@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Anoop 👋
+Mechanical Engineer passionate about simulation-driven engineering, aerodynamics, and product design.  
+Recently graduated with a Master’s degree in Mechanical Engineering from the University of Colorado Boulder.
 
-<!--
-**Anoopms21/Anoopms21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I’m Working On
+- CFD & aerodynamic analysis projects  
+- Mechanical design and FEA simulations  
+- Formula 1-inspired engineering concepts  
+- High-performance engineering portfolio projects  
 
-Here are some ideas to get you started:
+## Tools I Use
+- SolidWorks
+- ANSYS
+- OpenFOAM
+- CATIA V5
+- MATLAB
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/anoopsubramanya
+- Portfolio: https://anoopsubramanya.framer.website/
+
+> Always learning, building, and engineering better solutions.
