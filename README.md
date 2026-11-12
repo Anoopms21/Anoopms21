@@ -50,65 +50,43 @@ A collection of mechanical design, structural analysis, CFD, reverse engineering
       <sub>CATIA V5 · SolidWorks · Structural Analysis · Systems Integration</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Anoopms21/Free-Piston-Linear-Generator">
-        <img src="https://raw.githubusercontent.com/Anoopms21/Free-Piston-Linear-Generator/main/images/fplg-thumbnail.png" width="350" alt="Free Piston Linear Generator">
-      </a>
-      <br><br>
-      <a href="https://github.com/Anoopms21/Free-Piston-Linear-Generator">
-        <b>Free-Piston Linear Generator</b>
-      </a>
-      <br><br>
-      <b>Mechanical Design | Woodward Inc.</b>
-      <br><br>
-      Restored a non-functional compressed-air prototype and redesigned the propane combustion architecture.
-      <br><br>
-      <b>100 cycles/min | 24% assembly time reduction</b>
-      <br><br>
-      <sub>SolidWorks · ANSYS · DFM/DFA · Root Cause Analysis</sub>
-    </td>
-  </tr>
+  <a href="https://github.com/Anoopms21/Free-Piston-Linear-Generator">
+    <img src="https://img.shields.io/badge/INDUSTRIAL_R%26D-NDA_PROTECTED-8B0000?style=for-the-badge&logo=shield&logoColor=white"
+         alt="Industrial R&D - NDA Protected">
+  </a>
+  <br><br>
+  <a href="https://github.com/Anoopms21/Free-Piston-Linear-Generator">
+    <b>Free-Piston Linear Generator</b>
+  </a>
+  <br><br>
+      
+  <b>Mechanical Design & R&D | Woodward Inc.</b>
+  <br><br>
+  
+  Industrial research and development project focused on prototype troubleshooting, mechanical redesign, structural analysis, and assembly optimization.
+  <br><br>
+  <b>100 cycles/min | 24% estimated assembly time reduction</b>
+  <br><br>
+  <sub>SolidWorks · ANSYS · DFM/DFA · Root Cause Analysis</sub>
+  
+  <br><br>
+  
+  🔒 <b>Confidential R&D Project</b>
+  <br>
 
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Anoopms21/Reverse-engineering-of-a-Dyson-bladeless-fan-DP-01-">
-        <img src="https://raw.githubusercontent.com/Anoopms21/Reverse-engineering-of-a-Dyson-bladeless-fan-DP-01-/main/images/dyson-thumbnail.png" width="350" alt="Dyson DP-01 Reverse Engineering">
-      </a>
-      <br><br>
-      <a href="https://github.com/Anoopms21/Reverse-engineering-of-a-Dyson-bladeless-fan-DP-01-">
-        <b>Dyson DP-01 Reverse Engineering</b>
-      </a>
-      <br><br>
-      <b>Product Design & Manufacturing Optimization</b>
-      <br><br>
-      Reverse-engineered 41 components and 7 assemblies, optimizing product architecture, material selection, and assembly efficiency.
-      <br><br>
-      <b>14.3% manufacturing cost reduction | 13.8% DFA improvement</b>
-      <br><br>
-      <sub>SolidWorks · Reverse Engineering · DFM/DFA · Cost Optimization</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Anoopms21/Scale-Working-model-of-Windtunel">
-        <img src="https://raw.githubusercontent.com/Anoopms21/Scale-Working-model-of-Windtunel/main/images/wind-tunnel-thumbnail.png" width="350" alt="Formula 1 Wind Tunnel">
-      </a>
-      <br><br>
-      <a href="https://github.com/Anoopms21/Scale-Working-model-of-Windtunel">
-        <b>Formula 1 Wind Tunnel</b>
-      </a>
-      <br><br>
-      <b>Aerodynamic Design & Experimental Validation</b>
-      <br><br>
-      Developed an open-loop wind tunnel for aerodynamic testing of a 1:10 scale Formula 1 model and CFD correlation.
-      <br><br>
-      <b>40–80 m/s testing </b>
-      <br><br>
-      <sub>OpenFOAM · CFD · Aerodynamics · Experimental Testing</sub>
-    </td>
-  </tr>
+  
+  <sub>Protected under a Non-Disclosure Agreement (NDA). Proprietary CAD models, photographs, technical drawings, and detailed design documentation are not publicly disclosed. Only non-confidential, resume-level achievements are presented.</sub>
+  <br><br>
+  <a href="https://github.com/Anoopms21/Free-Piston-Linear-Generator">
+    View Project Overview →
+  </a>
 
-  <tr>
+</td>
+
+ <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Anoopms21/CFD-Driven-Design-Validation-and-Optimization-of-Heat-Sinks">
-        <img src="https://raw.githubusercontent.com/Anoopms21/CFD-Driven-Design-Validation-and-Optimization-of-Heat-Sinks/main/images/heat-sink-thumbnail.png" width="350" alt="Heat Sink CFD Optimization">
+        <img src="https://raw.githubusercontent.com/Anoopms21/CFD-Driven-Design-Validation-and-Optimization-of-Heat-Sinks/main/All config results.png" width="650" alt="Heat Sink CFD Optimization">
       </a>
       <br><br>
       <a href="https://github.com/Anoopms21/CFD-Driven-Design-Validation-and-Optimization-of-Heat-Sinks">
@@ -125,7 +103,7 @@ A collection of mechanical design, structural analysis, CFD, reverse engineering
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Anoopms21/Novel-design-of-Laptop-stand-with-modular-cooling-system-">
-        <img src="https://raw.githubusercontent.com/Anoopms21/Novel-design-of-Laptop-stand-with-modular-cooling-system-/main/images/laptop-stand-thumbnail.png" width="350" alt="Modular Cooling Laptop Stand">
+        <img src="https://raw.githubusercontent.com/Anoopms21/Novel-design-of-Laptop-stand-with-modular-cooling-system-/main/Laptop Stand.png" width="350" alt="Modular Cooling Laptop Stand">
       </a>
       <br><br>
       <a href="https://github.com/Anoopms21/Novel-design-of-Laptop-stand-with-modular-cooling-system-">
@@ -141,6 +119,45 @@ A collection of mechanical design, structural analysis, CFD, reverse engineering
       <sub>CAD · Product Design · Prototyping · Design for Manufacturing</sub>
     </td>
   </tr>
+  
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Anoopms21/Reverse-engineering-of-a-Dyson-bladeless-fan-DP-01-">
+        <img src="https://raw.githubusercontent.com/Anoopms21/Reverse-engineering-of-a-Dyson-bladeless-fan-DP-01-/main/Dyson CAD.png" width="350" alt="Dyson DP-01 Reverse Engineering">
+      </a>
+      <br><br>
+      <a href="https://github.com/Anoopms21/Reverse-engineering-of-a-Dyson-bladeless-fan-DP-01-">
+        <b>Dyson DP-01 Reverse Engineering</b>
+      </a>
+      <br><br>
+      <b>Product Design & Manufacturing Optimization</b>
+      <br><br>
+      Reverse-engineered 41 components and 7 assemblies, optimizing product architecture, material selection, and assembly efficiency.
+      <br><br>
+      <b>14.3% manufacturing cost reduction | 13.8% DFA improvement</b>
+      <br><br>
+      <sub>SolidWorks · Reverse Engineering · DFM/DFA · Cost Optimization</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Anoopms21/Scale-Working-model-of-Windtunel">
+        <img src="https://raw.githubusercontent.com/Anoopms21/Scale-Working-model-of-Windtunel/main/WindTunnel CAD.png" width="425" alt="Formula 1 Wind Tunnel">
+      </a>
+      <br><br>
+      <a href="https://github.com/Anoopms21/Scale-Working-model-of-Windtunel">
+        <b>Formula 1 Wind Tunnel</b>
+      </a>
+      <br><br>
+      <b>Aerodynamic Design & Experimental Validation</b>
+      <br><br>
+      Developed an open-loop wind tunnel for aerodynamic testing of a 1:10 scale Formula 1 model and CFD correlation.
+      <br><br>
+      <b>40–80 m/s testing </b>
+      <br><br>
+      <sub>OpenFOAM · CFD · Aerodynamics · Experimental Testing</sub>
+    </td>
+  </tr>
+
+  
 </table>
 
 ---
@@ -153,7 +170,7 @@ Exploring engineering fundamentals, material behavior, and emerging aerospace te
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Anoopms21/Crack-Propagation-and-Failure-Mechanisms-in-Fiber-Reinforced-Composites">
-        <img src="https://raw.githubusercontent.com/Anoopms21/Crack-Propagation-and-Failure-Mechanisms-in-Fiber-Reinforced-Composites/main/images/composites-thumbnail.png" width="350" alt="Composite Materials Research">
+        <img src="https://raw.githubusercontent.com/Anoopms21/Crack-Propagation-and-Failure-Mechanisms-in-Fiber-Reinforced-Composites/main/1st Page.png" width="350" alt="Composite Materials Research">
       </a>
       <br><br>
       <a href="https://github.com/Anoopms21/Crack-Propagation-and-Failure-Mechanisms-in-Fiber-Reinforced-Composites">
@@ -166,7 +183,7 @@ Exploring engineering fundamentals, material behavior, and emerging aerospace te
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Anoopms21/Technical-Seminar">
-        <img src="https://raw.githubusercontent.com/Anoopms21/Technical-Seminar/main/images/seminar-thumbnail.png" width="350" alt="Technical Seminar">
+        <img src="https://raw.githubusercontent.com/Anoopms21/Technical-Seminar/main/Concept and design.png" width="350" alt="Technical Seminar">
       </a>
       <br><br>
       <a href="https://github.com/Anoopms21/Technical-Seminar">
@@ -188,7 +205,7 @@ Exploring engineering fundamentals, material behavior, and emerging aerospace te
   <tr>
     <td width="35%" align="center">
       <a href="https://github.com/Anoopms21/Certifications">
-        <img src="https://raw.githubusercontent.com/Anoopms21/Certifications/main/images/certifications-thumbnail.png" width="250" alt="Engineering Certifications">
+        <img src="https://raw.githubusercontent.com/Anoopms21/Certifications/main/Face photo.png" width="450" alt="Engineering Certifications">
       </a>
     </td>
     <td width="65%" valign="middle">
