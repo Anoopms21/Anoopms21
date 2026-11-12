@@ -31,8 +31,8 @@ A collection of mechanical design, structural analysis, CFD, reverse engineering
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Anoopms21/Moonraker-Spacecraft-Design-Project/CAD renders/full sc.jpg">
-        <img src="https://github.com/Anoopms21/Moonraker-Spacecraft-Design-Project/CAD renders/full sc.jpg" width="350" alt="Moonraker Spacecraft Design">
+      <a href="https://github.com/Anoopms21/Moonraker-Spacecraft-Design-Project">
+        <img src="https://raw.githubusercontent.com/Anoopms21/Moonraker-Spacecraft-Design-Project/main/CAD renders/deployed.jpg" width="350" alt="Moonraker Spacecraft Design">
       </a>
       <br><br>
       <a href="https://github.com/Anoopms21/Moonraker-Spacecraft-Design-Project">
